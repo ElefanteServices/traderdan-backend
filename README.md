@@ -44,6 +44,8 @@ FLASK_ENV=production
 ### API Keys Required
 - **CoinGecko API**: For cryptocurrency market data
 - **CoinDesk API**: For news and sentiment analysis
+- **Arkham API**: For DeFi Dashboard (optional)
+- **ETH API**: For gas fees management
 
 ## Installation
 
@@ -105,19 +107,19 @@ The backend implements professional trading strategies including:
 
 ## About @thecryptoadvisor
 
-Professional cryptocurrency trader and analyst Alexandre Azeredo brings Wall Street-grade analysis to the crypto markets. With a background in macroeconomics and international relations, specialized in crypto markets with traditional finance experience.
+Professional cryptocurrency analyst Alexandre Azeredo brings Wall Street-grade analysis to the crypto markets. With a background in macroeconomics and international relations, specialized in crypto markets with traditional finance experience.
 
 **Connect:**
 - LinkedIn: [Alexandre Azeredo](https://www.linkedin.com/in/alexandre-azeredo/)
-- Twitter: [@thecryptoadvisor](https://twitter.com/thecryptoadvisor)
+- Twitter: [@alexandreazered] TheCryptoAdvisor
 
 ## License
 
-This project is proprietary software owned by @thecryptoadvisor. All rights reserved.
+This project is an ope source project created by @thecryptoadvisor. Use as you wish. 
 
 ## Support
 
-For technical support or trading inquiries, contact: alexandre@traderdan.xyz
+For technical support or trading inquiries, contact: thelord
 
 ---
 
